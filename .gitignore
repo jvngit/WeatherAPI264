@@ -1,0 +1,14 @@
+venv
+.idea
+venv/
+.idea/
+**/idea/
+
+# Ignore Python cache and virtual environments
+__pycache__/
+venv/
+.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
